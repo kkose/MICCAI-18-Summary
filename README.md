@@ -37,7 +37,6 @@ They do task sampling. At each metaupdate (similar to epoch), they pick a traini
 ![Experimental Results for the proposed methodology](./Images/TrainLikeRadiologistResults.png)
 
 
-
 ## Predicting Cancer with Recurrent Visual Attention Model for Histopathology Images
 
 **Abstract**
@@ -53,7 +52,7 @@ They do task sampling. At each metaupdate (similar to epoch), they pick a traini
 **Abstract** 
 *For image segmentation, typical fully convolutional networks (FCNs) need strong supervision through a large sample of high-quality dense segmentations, entailing high costs in expert-raters’ time and effort. We propose MS-Net, a new FCN to significantly reduce super- vision cost, and improve performance, by coupling strong supervision with weak supervision through low-cost input in the form of bounding boxes and landmarks. Our MS-Net enables instance-level segmentation at high spatial resolution, with feature extraction using dilated convolu- tions. We propose a new loss function using bootstrapped Dice overlap for precise segmentation. Results on large datasets show that MS-Net segments more accurately at reduced supervision costs, compared to the state of the art.*
 
-![Schematic of the proposed network model](./Images/MSNet-Scheme.png)
+![Schematic of the proposed network model](./Images/MSNet-Schema.png)
 
 RU => Residual Unit
 DRRU => Dilated Full-Resolution Residual Unit
